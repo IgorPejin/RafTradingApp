@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Raf Trading</string>
+
+    <string name="discover">Discover</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="profile">Profile</string>
+    <string name="newsfrag">NewsFrag</string>
+    <string name="popular_stocks">Popular stocks</string>
+    <string name="log_out">Log out</string>
+    <string name="ebit">Ebit</string>
+    <string name="beta">Beta</string>
+    <string name="mktcap">MktCap</string>
+    <string name="eps">Eps</string>
+    <string name="ask">Ask</string>
+    <string name="close">Close</string>
+    <string name="simbol">Simbol</string>
+    <string name="last">Last</string>
+    <string name="open">Open</string>
+    <string name="bid">Bid</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="stanje_na_ra_unu">Stanje na računu</string>
+    <string name="vrednost_portfolia">Vrednost portfolia</string>
+    <string name="trending_news">Trending news</string>
+    <string name="unesite_broj_deonica">Unesite broj deonica</string>
+</resources>
